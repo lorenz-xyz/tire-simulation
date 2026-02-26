@@ -1,4 +1,4 @@
-module github.com/tire-simuation
+module github.com/lorenz-xyz/tire-simuation
 
 go 1.24.2
 
